@@ -1,0 +1,20 @@
+﻿Descriptive statistical analysis,,,,,,,,
+Data Name,"Number of
+ assigned vehicles",Operating kilometers,"Total operational 
+energy consumption","Passenger 
+traffic volume",CE,GDP,"Average daily number of 
+actual transactions","Operating mileage
+growth rate"
+Source,"Urban Rail Transit Statistics
+ and Analysis Report","Urban Rail Transit Statistics
+ and Analysis Report","China Urban Rail
+ Transit Yearbook","Urban Rail Transit
+ Statistics and Analysis Report","Multiply the regional energy consumption
+ by the corresponding carbon emission factor",Local Statistical Yearbook,"Urban Rail Transit Statistics
+ and Analysis Report","Urban Rail Transit Statistics
+ and Analysis Report"
+Sample size,206 ,206 ,206 ,206 ,206 ,206 ,206 ,206 
+Maximum value,85348 ,368529304 ,17488409853 ,11050079393 ,372346589278 ,99943517 ,54739 ,6773479 
+Minimum value,12 ,0 ,176 ,54 ,210 ,210 ,11 ,117 
+Average value,706 ,1806577 ,84974838 ,53723659 ,1807893337 ,500521 ,548 ,35649 
+Variance,35016255 ,656027427403419 ,1477461251561600000 ,589852884353049000 ,669750855193849000000 ,48238676378099 ,14373880 ,221460843171 
